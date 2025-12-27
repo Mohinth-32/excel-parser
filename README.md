@@ -25,3 +25,5 @@ This project was created because **ChatGPT’s direct Excel/CSV parsing can be i
 - **Browser Clipboard API**
 
 ---
+check it out -> https://mohinth-32.github.io/excel-parser/
+---
